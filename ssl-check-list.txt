@@ -1,0 +1,9 @@
+google.com:443
+amazon.com:443
+djangoproject.com:443
+python.org:443
+wikipedia.org:443
+github.com:443
+docker.com:443
+slack.com:443
+cacert.org:443
